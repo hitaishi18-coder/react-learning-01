@@ -1,0 +1,23 @@
+.heading{
+    color: green;
+    text-align: center;
+}
+
+.img-style{
+    width: 100px;
+}
+
+.usercard{
+    margin: 10px;
+    width: 200px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 3px 1px #ddd;
+}
+.text{
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
